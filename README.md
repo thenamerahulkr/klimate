@@ -38,7 +38,6 @@ This project leverages modern web development technologies to ensure responsiven
 ## 📸 Screenshot
 
 ![Klimate UI Screenshot](path-to-screenshot.png)  
-_Include a screenshot of your app here._
 
 ## 📦 Installation
 
@@ -69,7 +68,7 @@ Follow these steps to set up and run the project locally:
 
 ## 🌐 Live Demo
 
-Check out the live application here: [Klimate on Vercel](https://your-app-url.vercel.app)
+Check out the live application here: [Klimate on Vercel](https://klimatespace.vercel.app/)
 
 ## 🖼 Demo Video
 _Optional: Include a demo video link to showcase the functionality._
@@ -78,31 +77,9 @@ _Optional: Include a demo video link to showcase the functionality._
 
 - [OpenWeather API](https://openweathermap.org/api): For fetching real-time weather data.
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🧑‍💻 Author
 
-- **Your Name**: [Your GitHub Profile](https://github.com/your-username)  
+- **Your Name**: [Your GitHub Profile](https://github.com/thenamerahulkr)  
 
 If you like this project, don't forget to star ⭐ the repository!
