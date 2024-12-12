@@ -1,6 +1,6 @@
 # Klimate: Weather Web Application
 
-![Klimate Screenshot](path-to-your-screenshot.png)
+![Klimate Screenshot](public/klimate.png)
 
 ## 🌟 Overview
 
