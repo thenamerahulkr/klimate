@@ -1,6 +1,6 @@
 # Klimate: Weather Web Application
 
-![Klimate Screenshot](/public/klimate.png)
+![Klimate Screenshot](<img width="1022" alt="{5D896A5D-C9AC-4A48-8F0E-D8106E0B05DC}" src="https://github.com/user-attachments/assets/269460b0-f8b2-4765-a707-497d2b6dd94b" />)
 
 ## 🌟 Overview
 
@@ -35,9 +35,6 @@ This project leverages modern web development technologies to ensure responsiven
 ### Deployment:
 - **Vercel**: For seamless and quick deployment of the application.
 
-## 📸 Screenshot
-
-![Klimate UI Screenshot](path-to-screenshot.png)  
 
 ## 📦 Installation
 
@@ -70,8 +67,6 @@ Follow these steps to set up and run the project locally:
 
 Check out the live application here: [Klimate on Vercel](https://klimatespace.vercel.app/)
 
-## 🖼 Demo Video
-_Optional: Include a demo video link to showcase the functionality._
 
 ## 🔗 API Used
 
@@ -80,6 +75,6 @@ _Optional: Include a demo video link to showcase the functionality._
 
 ## 🧑‍💻 Author
 
-- **Your Name**: [Your GitHub Profile](https://github.com/thenamerahulkr)  
+- **Your Name**: [thenamerahulkr](https://github.com/thenamerahulkr)  
 
 If you like this project, don't forget to star ⭐ the repository!
