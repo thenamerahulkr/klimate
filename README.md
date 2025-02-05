@@ -1,6 +1,6 @@
 # Klimate: Weather Web Application
 
-![Klimate Screenshot](<img width="1022" alt="{5D896A5D-C9AC-4A48-8F0E-D8106E0B05DC}" src="https://github.com/user-attachments/assets/269460b0-f8b2-4765-a707-497d2b6dd94b" />)
+<img width="1022" alt="{5D896A5D-C9AC-4A48-8F0E-D8106E0B05DC}" src="https://github.com/user-attachments/assets/269460b0-f8b2-4765-a707-497d2b6dd94b" />
 
 ## 🌟 Overview
 
